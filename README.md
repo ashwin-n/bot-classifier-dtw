@@ -1,4 +1,4 @@
-# Bot Classifier Baseline:
+# BotNet Classifier:
 
 Quick and simple Binary Classifier to determine if the tweets are from a Bot or Human using Dynamic Time warping as co-relation coeffecient and supervised learning for classification for CS 221 Project.
 
