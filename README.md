@@ -23,11 +23,9 @@ Test Data : ~200K tweets
 **Total Success rate: 88.94%**
 
 ### Running the code
-python cluster_users.py
-
 
 ```sh
-$ python classifier-tweets-with-users.py
+$ python cluster_users.py
 ```
 
 ### Data Courtesy:
